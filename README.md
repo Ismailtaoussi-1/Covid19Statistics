@@ -17,7 +17,7 @@ Covid Tracker is an app made with **React Native** framework to provide worldwid
 
 ## 🤝 Contribute
 
-To contribute, fork the repository and push the changes to the **main** branch. Then submit a pull request for merging with the source. If your code passes the review and checks it will be merged into the master branch.
+To contribute, fork the repository and push the changes to the **master** branch. Then submit a pull request for merging with the source. If your code passes the review and checks it will be merged into the master branch.
 
 
 ## 💬 Feedback
