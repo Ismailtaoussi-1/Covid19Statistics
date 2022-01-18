@@ -72,12 +72,7 @@ let Styles = StyleSheet.create({
       justifyContent: 'center',
       borderRadius: 30,
     },
-    coinSymbol: {
-      fontSize: 13,
-      marginBottom: 5,
-    //   fontFamily: 'RobotoSlab-Regular',
-      color: Colors.lighter,
-    },
+    
     chart: {
       paddingRight: 0,
       paddingBottom: 20,
@@ -95,12 +90,7 @@ let Styles = StyleSheet.create({
       marginLeft: 0,
       flex: 1,
     },
-    coinName: {
-      fontSize: 15,
-      marginBottom: 2,
-    //   fontFamily: 'RobotoSlab-Bold',
-      color: Colors.foreground,
-    },
+    
     title: {
       fontSize: 12,
       textAlign: 'center',
